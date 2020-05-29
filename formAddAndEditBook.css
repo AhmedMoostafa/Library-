@@ -1,0 +1,26 @@
+body{
+    background-image: url("this.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#all{
+    font-size: xx-large;
+    font-family: "Lucida Console", Courier, monospace;
+    color: azure;
+}
+#but {
+   
+    font-size: 16px;
+    padding: 10px 24px;
+    border: none;
+    color: black;
+    text-decoration: none;
+    font-family: "Lucida Console", Courier, monospace;
+    border-radius: 8px;
+    border: 2px solid #000000;
+}
+#but:hover
+{
+    background-color: #deb380;
+}

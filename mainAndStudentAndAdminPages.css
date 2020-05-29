@@ -1,0 +1,120 @@
+body
+{
+        background: url("this.jpg");
+        align-content: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    overflow: hidden;
+}
+.but
+{
+        font-size: 16px;
+        padding: 10px 24px;
+        border: none;
+        color: black;
+        text-decoration: none;
+        font-family: "Lucida Console", Courier, monospace;
+        border-radius: 8px;
+        border: 2px solid #000000;
+    transform: translate(460%,550%);
+}
+.butajax
+{
+        font-size: 16px;
+        padding: 10px 24px;
+        border: none;
+        color: black;
+        text-decoration: none;
+        font-family: "Lucida Console", Courier, monospace;
+        border-radius: 8px;
+        border: 2px solid #000000;
+    transform: translate(50%,80%);
+}
+a
+{
+    font-size: 16px;
+    padding: 10px 24px;
+    color: black;
+    text-decoration: none;
+    font-family: "Lucida Console", Courier, monospace;
+}
+.all
+{
+        font-size: xx-large;
+        font-family: "Lucida Console", Courier, monospace;
+        color: azure;
+	
+}
+h1{
+	color: bisque;
+    font-style: initial;
+
+    font-size: 80px;
+    transform: translate(80%,200%);
+    margin: 0px;padding: 0px;
+    border: 0px;
+    width: 700px;
+
+
+}
+.s1
+{
+        line-height: 12px;
+        padding: 10px 10px;
+        color: black;
+         transform: translate(180%,500%);
+       margin: 5px;
+       background-color: burlywood;
+    width: 300px;
+}
+.Link
+{
+
+
+    border-radius: 8px;
+    border: 2px solid sandybrown;
+    transform: translate(350%,900%);
+    width: 170px;
+    font-size: large;
+    height: 20px;
+
+
+
+
+}
+.Link2
+{
+    color: white;
+
+}
+.box
+{
+
+    /*transform: translate(3650%,1750%);*/
+}
+.remmber
+{
+    color: bisque;
+    transform: translate(460%,930%);
+    width: 150px;
+    font-size: large;
+}
+.errormsg
+{
+    width: 400px;
+    color: red;
+    font-size: 20px;
+    text-shadow: 1px 1px black;
+    transform: translate(135%,1000%);
+
+}
+#errormsg
+ {
+     width: 100%;
+     color: red;
+     font-size: 20px;
+     text-shadow: 1px 1px black;
+     transform: translate(40%,600%);
+    font-size: 30px;
+
+ }

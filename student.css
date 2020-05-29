@@ -1,0 +1,166 @@
+body{
+    background-image: url("this.jpg");
+    background-repeat: repeat;
+    background-size: 100%;
+    background-position: top;
+    height: 100%;
+    padding: 0px;
+    margin: 0px;
+
+
+}
+
+.head
+{
+    background-color: rgba(255,230,173,0.7);
+    width: 100% ;
+    height: 18%;
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+
+
+}
+.parent
+{
+    width: 8%;
+    height: 90%;
+    padding: 0px;
+    margin: 0px;
+    float: left;
+    position: relative;
+    top: 4px;
+    left: 10px;
+    margin-right: 10px;
+
+
+}
+
+.avatar
+{
+
+    border: 0px solid cornsilk;
+
+    border-radius: 50%;
+    width: 100%;
+    height: 100%;
+    padding: 0px;
+    margin: 0px;
+
+    /*    transform: translate(6px,15px);
+*/
+
+}
+.all{
+
+    border: 0px;
+    height: 30%;
+    float: left;
+    width: 60%;
+    position: relative;
+    left: 10%;
+    top: 30%;
+    padding-left: 10px;
+    padding-top: 5px;
+
+}
+.search_par
+{
+
+
+    height:90%;
+
+
+
+
+}
+
+
+
+#but,#but1
+{
+    font-size: 16px;
+    padding: 8px 15px;
+    color: black;
+    text-decoration: none;
+    font-family: "Lucida Console", Courier, monospace;
+    border-radius: 8px;
+    border: 2px solid #000000;
+
+
+}
+#but1
+{
+    position: relative;
+    bottom: 3px;
+    right: 300px;
+}
+#but:hover
+{
+    background: burlywood;
+}
+#but1:hover
+{
+    background: cadetblue;
+}
+#box
+{
+    width: 10%;
+    height: 40%;
+    background-color:cadetblue;
+    border-radius: 10px 10px ;
+    border: 1px;
+    float: right;
+    position: relative;
+    top: 25%;
+    right: 6%;
+    /* transform: translate(1230%,-330%);*/
+
+}
+.books
+{
+    width: 75%;
+    height: 70%;
+
+    padding: unset;
+    float: left;
+    font-size: larger;
+    position: absolute;
+    left: 23%;
+
+}
+#s1{
+    line-height: 20px;
+    padding:0px;
+    width: 50%;
+}
+.category
+{
+    width: 300px;
+    border-right: silver solid;
+    border-bottom: silver solid;
+    padding: 0px;
+    margin: 0px;
+    float: left;
+
+
+}
+
+li:hover
+{
+    color: aqua;
+}
+.cat
+{
+    padding: 5px;
+}
+
+.pbook:hover
+{
+    color: aqua;
+}
+
+#box:hover
+{
+    background-color:silver;
+}

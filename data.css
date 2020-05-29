@@ -1,0 +1,23 @@
+.s1{
+        line-height: 12px;
+        padding: 10px 10px;
+        color: black;
+}
+.but
+{
+        font-size: 16px;
+        padding: 10px 24px;
+        border: none;
+        color: black;
+        text-decoration: none;
+        font-family: "Lucida Console", Courier, monospace;
+        border-radius: 8px;
+        border: 2px solid #000000;
+}
+body
+{
+        background: url("this.jpg");
+        align-content: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+}

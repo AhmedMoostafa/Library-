@@ -1,0 +1,63 @@
+body{
+    background-image: url("this.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+overflow: hidden;
+}
+#all{
+
+    width: 50%;
+    height: 50%;
+    font-size: xx-large;
+    font-family: "Lucida Console", Courier, monospace;
+    color: azure;
+
+}
+#all2{
+
+    font-size: xx-large;
+    width: 50%;
+    height: 50%;
+    font-family: "Lucida Console", Courier, monospace;
+    color: azure;
+
+}
+#but {
+   
+    font-size: 16px;
+    padding: 10px 24px;
+    border: none;
+    color: black;
+    text-decoration: none;
+    font-family: "Lucida Console", Courier, monospace;
+    border-radius: 8px;
+    border: 2px solid #000000;
+    width: 200px;
+}
+a{
+    font-size: 16px;
+    padding: 10px 24px;
+    color: black;
+    text-decoration: none;
+    font-family: "Lucida Console", Courier, monospace;
+}
+li
+{
+   margin-top: 15px;
+}
+.bookingError
+{
+    width: 100%;
+
+    color: red;
+    position: relative;
+    top: 5px;
+    font-size: 20px;
+    text-shadow: 1px 1px black;
+
+}
+#but:hover
+{
+    background-color: #deb380;
+}
