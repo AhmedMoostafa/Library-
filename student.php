@@ -6,6 +6,7 @@ if(!isset( $_SESSION['current']))
     header('location: login.php');
 }
 ?>
+// create block for bakh button
 
 <html>
     <head>
